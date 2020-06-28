@@ -3,9 +3,9 @@ pricing:
   enable : true
   pricing_table:
     # pricing table loop
-    - name : "Basic"
+    - name : "Основен"
       price: "$99"
-      content : "Perfect for single freelancers who work by themselves"
+      content : "Идеален за единични фрийлансъри, които работят сами"
       link : "#"
       services:
         - Unlimited agents
@@ -16,9 +16,9 @@ pricing:
         - 24/7 Tech Support
         
     # pricing table loop
-    - name : "Premium"
+    - name : "премия"
       price: "$199"
-      content : "Suitable for small businesses with up to 5 employees"
+      content : "Подходящ за малки фирми с до 5 служители"
       link : "#"
       services:
         - Unlimited agents
@@ -29,9 +29,9 @@ pricing:
         - 24/7 Tech Support
         
     # pricing table loop
-    - name : "Advance"
+    - name : "напреднал"
       price: "$299"
-      content : "Suitable for large businesses with unlimited employees"
+      content : "Подходящ за голям бизнес с неограничен брой служители"
       link : "#"
       services:
         - Unlimited agents

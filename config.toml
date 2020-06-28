@@ -113,7 +113,7 @@ link = "#"
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
-################################ France Language ########################
+################################ Bulgarian Language ########################
 [Languages.bg]
 languageName = "български"
 languageCode = "bg-bg"
@@ -121,7 +121,7 @@ contentDir = "content/bulgarian"
 weight = 1
 home = "начало"
 # copyright
-copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
+copyright = "Copyright &copy; 2020 SIS Service All Rights Reserved"
 
 # Main navigation menu
 [[Languages.bg.menu.main]]
@@ -144,7 +144,7 @@ name = "контакт"
 URL = "contact"
 weight = 4
 
-# footer menu
+# Footer menu
 [[Languages.bg.menu.footer]]
 name = "About"
 URL = "about"

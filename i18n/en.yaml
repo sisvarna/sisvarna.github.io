@@ -14,6 +14,8 @@
   translation: Send Message
 - id: all
   translation: All
+- id: form_placeholder_your_name
+  translation: "Your name"
 - id: posted_by
   translation: Posted By
 - id: read_more
