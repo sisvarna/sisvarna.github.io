@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "http://sisvarma.com/"
-title = "SIS Service"
+baseURL = "http://sisvarna.com/"
+title = "SIS Service СЧЕТОВОДНИ УСЛУГИ В ГРАД ВАРНА НА ДОСТЪПНИ ЦЕНИ"
 theme = "airspace"
 # post pagination
 paginate = "4"
