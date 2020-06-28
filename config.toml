@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "http://demo.themefisher.com/airspace-hugo/"
-title = "Airspace | Creative Agency Hugo Template"
+baseURL = "http://sisvarma.com/"
+title = "SIS Service"
 theme = "airspace"
 # post pagination
 paginate = "4"
@@ -10,6 +10,8 @@ summaryLength = "30"
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+defaultContentLanguage = "bg"
+publishDir = "docs"
 
 
 #################################### Plugins ##############################
@@ -46,79 +48,7 @@ sidebar = ["recent_posts", "taxonomy_category", "taxonomy_tags"]
 
 
 ############################## navigation ###############################
-
-# main menu
-[[menu.main]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[menu.main]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[menu.main]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 4
-
-[[menu.main]]
-weight = 5
-name = "Pages"
-hasChildren = true
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "FAQ"
-  URL = "faq"
-
-  [[menu.main]]
-  parent = "Pages"
-  name = "Pricing"
-  URL = "pricing"
-  
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 6
-
-
-# footer menu
-[[menu.footer]]
-name = "About"
-URL = "about"
-weight = 1
-
-[[menu.footer]]
-name = "Project"
-URL = "project"
-weight = 2
-
-[[menu.footer]]
-name = "Service"
-URL = "service"
-weight = 3
-
-[[menu.footer]]
-name = "Pricing"
-URL = "pricing"
-weight = 4
-
-[[menu.footer]]
-name = "FAQ"
-URL = "faq"
-weight = 5
-
-[[menu.footer]]
-name = "Contact"
-URL = "contact"
-weight = 6
+# See languages
 
 
 #################### default parameters ################################
@@ -183,23 +113,75 @@ link = "#"
 icon = "ion-social-facebook-outline" #ionicon pack v2 : https://ionicons.com/v2/
 link = "#"
 
-
-################################ English Language ########################
-[Languages.en]
-languageName = "En"
-languageCode = "en-us"
-contentDir = "content/english"
+################################ France Language ########################
+[Languages.bg]
+languageName = "български"
+languageCode = "bg-bg"
+contentDir = "content/bulgarian"
 weight = 1
-home = "Home"
+home = "начало"
 # copyright
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
 
-################################ France Language ########################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
+# Main navigation menu
+[[Languages.bg.menu.main]]
+name = "услуги"
+URL = "service"
+weight = 1
+
+[[Languages.bg.menu.main]]
+name = "Цени"
+URL = "pricing"
 weight = 2
-home = "Accueil"
+
+[[Languages.bg.menu.main]]
+name = "клиенти"
+URL = "clients"
+weight = 3
+
+[[Languages.bg.menu.main]]
+name = "контакт"
+URL = "contact"
+weight = 4
+
+# footer menu
+[[Languages.bg.menu.footer]]
+name = "About"
+URL = "about"
+weight = 1
+
+[[Languages.bg.menu.footer]]
+name = "Project"
+URL = "project"
+weight = 2
+
+[[Languages.bg.menu.footer]]
+name = "Service"
+URL = "service"
+weight = 3
+
+[[Languages.bg.menu.footer]]
+name = "Pricing"
+URL = "pricing"
+weight = 4
+
+[[Languages.bg.menu.footer]]
+name = "FAQ"
+URL = "faq"
+weight = 5
+
+[[Languages.bg.menu.footer]]
+name = "Contact"
+URL = "contact"
+weight = 6
+
+
+################################ English Language ########################
+[Languages.en]
+languageName = "English"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 2
+home = "Home"
 # copyright
 copyright = "Copyright &copy; 2020 [Themefisher](https://themefisher.com) All Rights Reserved"
