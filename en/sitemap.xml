@@ -3,100 +3,100 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://sisvarna.com/en/clients/</loc>
+    <loc>https://sisvarna.com/en/clients/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/clients/"
+                href="https://sisvarna.com/clients/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/clients/"
+                href="https://sisvarna.com/en/clients/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/categories/</loc>
+    <loc>https://sisvarna.com/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/categories/"
+                href="https://sisvarna.com/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/categories/"
+                href="https://sisvarna.com/en/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/contact/</loc>
+    <loc>https://sisvarna.com/en/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/contact/"
+                href="https://sisvarna.com/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/contact/"
+                href="https://sisvarna.com/en/contact/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/pricing/</loc>
+    <loc>https://sisvarna.com/en/pricing/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/pricing/"
+                href="https://sisvarna.com/pricing/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/pricing/"
+                href="https://sisvarna.com/en/pricing/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/service/</loc>
+    <loc>https://sisvarna.com/en/service/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/service/"
+                href="https://sisvarna.com/service/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/service/"
+                href="https://sisvarna.com/en/service/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/</loc>
+    <loc>https://sisvarna.com/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/"
+                href="https://sisvarna.com/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/"
+                href="https://sisvarna.com/en/"
                 />
   </url>
   
   <url>
-    <loc>http://sisvarna.com/en/tags/</loc>
+    <loc>https://sisvarna.com/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="bg"
-                href="http://sisvarna.com/tags/"
+                href="https://sisvarna.com/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://sisvarna.com/en/tags/"
+                href="https://sisvarna.com/en/tags/"
                 />
   </url>
   
