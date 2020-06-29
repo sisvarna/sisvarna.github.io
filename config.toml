@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "http://sisvarna.com/"
+baseURL = "https://sisvarna.com/"
 title = "SIS Service СЧЕТОВОДНИ УСЛУГИ В ГРАД ВАРНА НА ДОСТЪПНИ ЦЕНИ"
 theme = "airspace"
 # post pagination
@@ -11,7 +11,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 defaultContentLanguage = "bg"
-publishDir = "docs"
 
 
 #################################### Plugins ##############################

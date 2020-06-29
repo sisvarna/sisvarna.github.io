@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://sisvarna.com/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/clients/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/clients/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/clients/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/pricing/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/pricing/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/pricing/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/service/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/service/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/service/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://sisvarna.com/contact/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://sisvarna.com/en/contact/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="bg"
+                href="https://sisvarna.com/contact/"
+                />
+  </url>
+  
+</urlset>
